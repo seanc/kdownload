@@ -22,6 +22,7 @@ Options:
   -o --out The download directory.
 ```
 
+**_Note_**
 > The `-a` or `--anime` option should be the last part of the URL, so if we have: https://kissanime.to/Anime/Hamatora-The-Animation, the option should be **Hamatora-The-Animation**
 
 ## Credits
