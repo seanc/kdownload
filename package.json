@@ -34,7 +34,7 @@
     "cheerio": "^0.20.0",
     "cloudscraper": "^1.2.2",
     "minimist": "^1.2.0",
-    "progress": "^1.1.8",
+    "request": "^2.69.0",
     "zt": "^1.0.0"
   }
 }
