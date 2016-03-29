@@ -1,3 +1,6 @@
+#!/usr/bin/env node
+'use strict';
+
 import cheerio from 'cheerio';
 import request from 'cloudscraper';
 import download from './download';
