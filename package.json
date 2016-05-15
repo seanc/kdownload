@@ -6,7 +6,7 @@
   },
   "name": "kdownload",
   "author": "Sean Wilson",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "KissAnime batch downloader",
   "main": "lib",
   "repository": {
